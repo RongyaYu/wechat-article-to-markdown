@@ -1,3 +1,19 @@
+
+亲测好使！已经安装完毕！
+
+乔帮主推荐一个很实用的微信公众号转Markdown工具，给公众号URL就能直接转成Markdown，还能自动下载文章里的图片。
+
+作者用了一个叫camoufox的反检测浏览器来绕过微信的反爬，亲测好用。
+
+关键是这个能力可以往上叠：转成Markdown之后再接PPT生成，等于公众号文章一键变PPT。
+
+工具地址：
+公众号转Markdown：github.com/jackwener/wech…
+反检测浏览器：github.com/daijro/camoufox
+
+做自媒体的可以收藏一下，公众号内容二次利用的效率直接拉满。
+
+
 # wechat-article-to-markdown
 
 Fetch WeChat Official Account articles and convert them to clean Markdown.
